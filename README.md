@@ -1,4 +1,5 @@
-## Inteligência Artificial x Humanos
+# Inteligência Artificial x Humanos
+## Videos Explicativos
 -  [Computadores têm alma?](https://www.youtube.com/watch?v=mfIenNIAedw)
   >Um dia vamos interagir com máquinas com consciência?
 -  [Ultron e a revolução da inteligência artificial](https://www.youtube.com/watch?v=CRy2g_-SqKY)
@@ -11,3 +12,8 @@
   >Como funcionam redes neurais que estão revolucionando a inteligência artificial.
 -  [Robôs vão tomar o seu emprego? Automatização do trabalho](https://www.youtube.com/watch?v=OEo14_iw7ho)
   >O que pode acontecer com o seu emprego
+## Cursos AI / Machine Learning / Data Science
+-  **[Curso de Inteligência Artificial Para Todos](https://www.youtube.com/playlist?list=PLtQM10PgmGogjn0cikgWi8wpQUnV6ERkY)**
+-  **[Crash Course AI](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b)**
+-  **[Elements Of AI](https://course.elementsofai.com/)**
+-  **[Kaggle](https://www.kaggle.com/learn/overview)**
