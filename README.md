@@ -1,4 +1,4 @@
-# AI x Humanos
+# AI
 ## Videos Explicativos
 -  [Computadores têm alma?](https://www.youtube.com/watch?v=mfIenNIAedw)
   >Um dia vamos interagir com máquinas com consciência?
